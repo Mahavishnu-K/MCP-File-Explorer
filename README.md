@@ -106,10 +106,6 @@ pytest -v
 
 Contributions are welcome! Please open an issue or PR to discuss improvements.
 
-## 📜 License
-
-MIT License © 2025 [Your Name]
-
 ---
 
 🚀 Built with Python + OpenAI GPT, secured with ❤️ for sandboxed AI experimentation.
