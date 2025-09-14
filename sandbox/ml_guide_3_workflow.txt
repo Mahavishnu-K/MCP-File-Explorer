@@ -1,0 +1,8 @@
+File 3: ML Workflow Steps
+
+1. Data Collection: Gather and prepare data for analysis.
+2. Data Preprocessing: Clean and format data.
+3. Model Selection: Choose a suitable ML algorithm.
+4. Training: Teach the model with data.
+5. Evaluation: Test model performance.
+6. Deployment: Use the model in real applications.

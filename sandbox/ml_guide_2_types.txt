@@ -1,0 +1,7 @@
+File 2: Types of Machine Learning
+
+There are three main types of machine learning:
+
+1. Supervised Learning: Trained on labeled data (e.g., classifying emails as spam or not).
+2. Unsupervised Learning: Trained on unlabeled data (e.g., grouping customers by behaviors).
+3. Reinforcement Learning: Learns via trial and error, receiving feedback (e.g., robotics, game-playing).

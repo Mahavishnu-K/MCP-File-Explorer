@@ -1,0 +1,8 @@
+File 4: Common Algorithms for Beginners
+
+- Linear Regression: Predicts continuous values (e.g., house prices).
+- Logistic Regression: For binary classification (e.g., yes/no predictions).
+- Decision Trees: Splits data based on feature values.
+- K-Nearest Neighbors (KNN): Classifies based on nearest data points.
+
+These algorithms are simple and widely used for learning ML basics.
